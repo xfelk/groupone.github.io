@@ -1,0 +1,176 @@
+/* CSS Document*/
+body, html{
+height:100%;
+    width: 100%;
+}
+.wrapper{
+    width: 100%;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    margin: 0 auto;
+    height: 130px;
+    background-color: white;
+    box-shadow: 0px 5px 10px #a8dff0;
+    padding: 0px 10px 0px 10px;
+    position: sticky;
+    
+}
+img{
+    max-width: 50px;
+    height: auto;
+    padding-top: 1.5%;
+    position: relative;
+    top: 10px;
+    left: 40px;
+    
+}
+h1{
+    position: relative;
+    left: 120px;
+    top: -50px;
+    font-family: avenir next;
+    font-size: 21pt;
+    color: #777777;
+    font-weight: 500;
+}
+h3{
+    font-family: avenir next;
+    position: relative;
+    left: 120px;
+    top: -65px;
+    font-size: 16pt;
+    color: #777777;
+    font-weight: 400;
+}
+h5{
+    font-family: avenir next;
+    font-size: 12pt;
+    color: #777777;
+    float: right;
+    margin-top: -92px;
+    position: relative;
+    right: 25px;
+    top: -50px;
+    font-weight: 200;
+}
+h6{
+    font-family: avenir next;
+    font-size: 10pt;
+    opacity: 0.6;
+    color: #777777;
+    position: relative;
+    left: 120px;
+    top: -95px;
+    font-weight: 100;
+}
+h4{
+    font-family: monospace;
+    font-size: 20pt;
+    position: relative;
+    left: 40px;
+    top: 100px;
+    font-weight: 400;
+    color: #777777;
+    letter-spacing: 5px;
+    text-decoration: none;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+h2{
+     font-family: monospace;
+    font-size: 20pt;
+    position: relative;
+    left: 40px;
+    top: 75px;
+    font-weight: 400;
+    color: #777777;
+    letter-spacing: 5px;
+    
+}
+.pages{
+    font-family: monospace;
+    font-size: 20pt;
+    position: relative;
+    left: 100px;
+    top: -40px;
+    font-weight: 400;
+    color: #777777;
+    letter-spacing: 5px;
+    
+}
+.phase1{
+    position: relative;
+    left: 250px;
+    top: 30px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 2px 2px 5px #a8dff0;
+}
+.phase2{
+    float: right;
+    position:relative;
+    right: 300px;
+    top: -220px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 2px 2px 5px #ffd3d9;
+}
+.phase3{ 
+    position: relative;
+    left: 250px;
+    top: 30px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 2px 2px 5px #71eeb8;
+    
+}
+.phase4{
+    float: right;
+    position:relative;
+    right: 300px;
+    top: -220px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 2px 2px 5px #d399e6;
+    
+}
+p{
+    font-family: avenir next;
+    font-size: 20pt;
+    position: relative;
+    left: 500px;
+    top: 250px;
+}
+.titles{
+    font-family: avenir next;
+    font-size: 20pt;
+    position: relative;
+    left: 100px;
+    top: 10px;
+    width: 80%;
+    text-decoration: none;
+    color: inherit;
+    
+}
+.body{
+    font-family: avenir next;
+    font-size: 14pt;
+    position: relative;
+    left: 125px;
+    top: 10px;
+    width: 80%;
+}
